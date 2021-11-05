@@ -11,7 +11,7 @@ Aplicação Desenvolvida em PHP, Javascript, Mysql, para realizar o Cadastro de 
 ![conexao_bd](https://user-images.githubusercontent.com/49642934/140506631-d84ca62e-a518-437b-927a-e04fdcc7ef70.png)
 
 
-
+-----------------------
 
 **Execução Aplicação**
 - Utilize o Botão Novo Registro para exibir o formulario de cadastro. Preencha todos os dados (todos os campos são obrigatórios) e utilize o botão cadastrar para prosseguir com o cadastro. 
