@@ -13,7 +13,9 @@ Aplicação Desenvolvida em PHP, Javascript, Mysql, para realizar o Cadastro de 
 
 
 **Execução Aplicação**
-Utilize o Botão Novo Registro para exibir o formulario de cadastro. Preencha todos os dados (todos os campos são obrigatórios) e utilize o botão cadastrar para confirmar o cadastro. 
+Utilize o Botão Novo Registro para exibir o formulario de cadastro. Preencha todos os dados (todos os campos são obrigatórios) e utilize o botão cadastrar para prosseguir com o cadastro. 
+
+
 
 ![tela_listagem](https://user-images.githubusercontent.com/49642934/140464066-062730d5-9e37-453d-b084-3bf52914d035.jpg)
 ![tela_cadastro](https://user-images.githubusercontent.com/49642934/140464265-5319fe7d-1265-4809-9f60-140dddf7dd34.jpg)
