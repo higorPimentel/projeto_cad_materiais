@@ -1,0 +1,10 @@
+Create database projeto_mat_construcoes;
+
+create table registros_materiais (
+id_material int(11) auto_increment,
+nome_material char (100) DEFAULT NULL,
+descricao char (100) DEFAULT NULL,
+marca char (100) DEFAULT NULL,
+qtd int (11) DEFAULT NULL,
+data_reg char (10) DEFAULT NULL,
+PRIMARY KEY(id_material));
